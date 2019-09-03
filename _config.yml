@@ -7,12 +7,12 @@ description: "Le vent se lève, il faut tenter de vivre（纵有疾风起，人�
 keyword: "萌新"
 url: "http://qum414.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我是光，承载你无法定义的希望，彗星被点亮的面纱，化成璎珞的坠落的光亮"
-sidebar-avatar: 1566843444382.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1566843444382.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
