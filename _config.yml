@@ -1,7 +1,7 @@
 # Site settings
 title: “廾匸”
 SEOTitle: “Le vent se lève, il faut tenter de vivre”
-header-img: img/post-bg-desk.jpg
+header-img: img/v2-344c2c7561c319e9cbe200e6ceb7a992.jpg
 email: qum414@163.com
 description: "Le vent se lève, il faut tenter de vivre（纵有疾风起，人生不言弃）"
 keyword: "萌新"
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我是光，承载你无法定义的希望，彗星被点亮的面纱，化成璎珞的坠落的光亮"
-sidebar-avatar: /img/1566843444382.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/timgOXYEIUI2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
